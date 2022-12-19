@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2022-12-18 17:35:46 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2022-12-17 20:51:17 -0300"
@@ -402,9 +408,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2022-12-18 17:35:46 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2022-12-17 20:56:58 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2022-12-18 17:35:46 -0300"
     },
     "done": true
   },
@@ -465,6 +483,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2022-12-17 20:56:58 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2022-12-18 17:11:36 -0300"
     },
     "done": true
   },
@@ -684,6 +708,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2022-12-18 17:35:46 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2022-12-18 13:20:10 -0300"
@@ -728,12 +758,14 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2022-12-18 17:24:40 -0300",
       "minecraft:skeleton": "2022-12-17 21:31:19 -0300",
       "minecraft:spider": "2022-12-17 21:30:26 -0300",
       "minecraft:creeper": "2022-12-18 13:33:57 -0300",
       "minecraft:husk": "2022-12-17 21:41:24 -0300",
       "minecraft:enderman": "2022-12-17 21:31:43 -0300",
-      "minecraft:zombie": "2022-12-18 15:33:05 -0300"
+      "minecraft:zombie": "2022-12-18 15:33:05 -0300",
+      "minecraft:drowned": "2022-12-18 17:08:19 -0300"
     },
     "done": false
   },
@@ -959,15 +991,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/arrow": {
-    "criteria": {
-      "has_feather": "2022-12-18 15:59:10 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2022-12-18 15:52:23 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2022-12-18 15:59:10 -0300"
     },
     "done": true
   },
@@ -1217,6 +1249,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2022-12-18 17:35:46 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2022-12-17 20:55:05 -0300"
@@ -1289,6 +1327,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2022-12-18 17:30:21 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2022-12-18 13:35:04 -0300"
@@ -1355,6 +1399,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2022-12-18 17:35:46 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2022-12-17 21:03:17 -0300"
@@ -1364,6 +1414,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2022-12-18 13:35:04 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2022-12-18 17:11:36 -0300"
     },
     "done": true
   },
